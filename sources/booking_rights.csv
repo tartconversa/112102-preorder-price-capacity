@@ -1,0 +1,5 @@
+right,order,term,session,guests,state,recorded_day,alternative,expires_day
+R1,O1-2,T1,S1,3,retained,2,,
+R2,O1-8,T1,S2,2,retained,2,,
+R1,O1-2,T1,S1,3,alternative_pending,12,S2,14
+R1,O1-2,T1,S1,3,alternative_accepted,13,S2,14

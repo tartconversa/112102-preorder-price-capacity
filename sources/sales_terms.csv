@@ -1,0 +1,3 @@
+term,product,preserves_price,keeps_party,replacement_requires_consent
+T1,group,yes,yes,yes
+T2,flex,yes,no,yes

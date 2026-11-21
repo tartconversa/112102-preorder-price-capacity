@@ -1,0 +1,5 @@
+session,product,day,capacity,status,learned_day
+S1,group,17,7,available,1
+S2,group,17,7,available,1
+S3,flex,18,9,available,1
+S1,group,17,7,cancelled,12
